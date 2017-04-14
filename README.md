@@ -2,4 +2,4 @@
 
 在使用之前要对Xcode进行设置
 
-[![weibo-logo]](https://github.com/AgoniNemo/autoBaleIpa/blob/master/0CD036F7.png)
+[![weibo-logo]](autoBaleIpa/0CD036F7.png)
