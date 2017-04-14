@@ -2,5 +2,5 @@
 
 在使用之前要对Xcode进行设置
 
-![image](autoBaleIpa/0CD036F7.png)
+![image](https://github.com/AgoniNemo/autoBaleIpa/blob/master/0CD036F7.png)
 
